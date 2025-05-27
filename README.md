@@ -23,4 +23,4 @@ A modern Android Tic-Tac-Toe app built with **Jetpack Compose**, featuring multi
 ## ⚙️ Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-android.git
+   [git clone https://github.com/lucifer9973/tictactoe-app.git]
