@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "284791931077",
+    "firebase_url": "https://tictactoe-67b0c-default-rtdb.firebaseio.com",
+    "project_id": "tictactoe-67b0c",
+    "storage_bucket": "tictactoe-67b0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284791931077:android:5e157359667fb4a653f0ac",
+        "android_client_info": {
+          "package_name": "com.rajshobhit.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVsB_rMDuaM70ISgfQYym3l_pRlYqGNWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

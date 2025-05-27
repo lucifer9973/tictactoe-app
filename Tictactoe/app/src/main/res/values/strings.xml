@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Tictactoe</string>
+    <string name="app_name">Tic-Tac-Toe</string>
+
+    <!-- Game Modes -->
+    <string name="pvp_mode">PvP</string>
+    <string name="pve_mode">PvE</string>
+    <string name="online_multiplayer">Online</string>
+
+    <!-- Online Game -->
+    <string name="create_game">Create New Game</string>
+    <string name="join_game">Join Game</string>
+    <string name="enter_game_code">Enter Game Code</string>
+    <string name="game_code">Game Code: %s</string>
+    <string name="waiting_for_opponent">Waiting for opponent…</string>
+    <string name="opponents_turn">Opponent\'s turn</string>
+    <string name="your_turn">Your turn</string>
+
+    <!-- UI -->
+    <string name="new_game">New Game</string>
+    <string name="statistics">Statistics</string>
+    <string name="x_wins">X Wins</string>
+    <string name="o_wins">O Wins</string>
+    <string name="game_history">Game History</string>
 </resources>
